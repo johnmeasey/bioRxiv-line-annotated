@@ -1,13 +1,13 @@
-var TITLE = 'Preprint uploads to bioRxiv (2013–2021)';
+var TITLE = 'Papers published in Life Sciences (1990–2020)';
 
 // Caption underneath the chart
-var CAPTION = 'Source: https://rxivist.org/stats';
+var CAPTION = 'Source: https://retractionwatch.com/';
 
 // x-axis label and label in tooltip
-var X_AXIS = 'Upload month';
+var X_AXIS = 'Year';
 
 // y-axis label and label in tooltip
-var Y_AXIS = 'uploads';
+var Y_AXIS = 'Papers published';
 
 // Should y-axis start from 0? `true` or `false`
 var BEGIN_AT_ZERO = true;
