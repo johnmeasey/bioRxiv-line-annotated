@@ -1,4 +1,4 @@
-var TITLE = 'Manuscripts uploaded to bioRxiv (2013-2021)';
+var TITLE = 'Manuscripts uploaded to bioRxiv (2013-2023)';
 
 // Caption underneath the chart
 var CAPTION = 'Source: https://rxivist.org/stats';
