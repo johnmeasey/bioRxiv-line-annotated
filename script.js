@@ -1,7 +1,7 @@
 var TITLE = 'Manuscripts uploaded to bioRxiv (2013-2023)';
 
 // Caption underneath the chart
-var CAPTION = 'Source: https://rxivist.org/stats';
+var CAPTION = 'Source: https://api.biorxiv.org/reports/content_summary';
 
 // x-axis label and label in tooltip
 var X_AXIS = 'Upload month';
